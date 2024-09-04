@@ -1,2 +1,2 @@
-# Customer-Segmentation
-Customer segmentation data analysis python project
+# Dyamic data analytics visualizationdashboard website
+An interactive dashboard for real-time data analysis & visualisation.
